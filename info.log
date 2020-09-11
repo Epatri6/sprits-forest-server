@@ -1,0 +1,973 @@
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"LevelDataService.getLevels is not a function","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"LevelDataService.getLevels is not a function","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"LevelDataService.getLevels(...).then is not a function","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"LevelDataService.getLevels(...).then is not a function","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select *, count(*) from \"level_data\" - column \"level_data.id\" must appear in the GROUP BY clause or be used in an aggregate function","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"select *, count(*) from \"level_data\" - column \"level_data.id\" must appear in the GROUP BY clause or be used in an aggregate function","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select *, count(*) from \"level_data\" - column \"level_data.id\" must appear in the GROUP BY clause or be used in an aggregate function","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"select * from \"level_data\" where \"id\" = $1 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"UserService.insertUser is not a function","level":"error"}
+{"message":"UserService.insertUser is not a function","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot read property 'then' of undefined","level":"error"}
+{"message":"Cannot read property 'then' of undefined","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"undefined is not a promise","level":"error"}
+{"message":"undefined is not a promise","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Promise resolver undefined is not a function","level":"error"}
+{"message":"Promise resolver undefined is not a function","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Invalid status code: 1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"UserService.getUser is not a function","level":"error"}
+{"message":"UserService.getUser is not a function","level":"error"}
+{"message":"UserService.getUser is not a function","level":"error"}
+{"message":"UserService.getUser is not a function","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"db is not a function","level":"error"}
+{"message":"db is not a function","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"db is not a function","level":"error"}
+{"message":"db is not a function","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"select * from \"users\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"undefined\"","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"select * from \"users\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"undefined\"","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'id' of 'user' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"UserService.updateUser is not a function","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [id] query: update \"users\" set \"username\" = ?, \"score\" = ? where \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [id] query: update \"users\" set \"username\" = ?, \"score\" = ? where \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [id] query: update \"users\" set \"username\" = ?, \"score\" = ? where \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Undefined binding(s) detected when compiling UPDATE. Undefined column(s): [id] query: update \"users\" set \"username\" = ?, \"score\" = ? where \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /api/auth/login","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /levels","level":"error"}
+{"message":"Unauthorized request to path: /levels/random","level":"error"}
+{"message":"Unauthorized request to path: /api/users/1","level":"error"}
+{"message":"Unauthorized request to path: /api/users/1","level":"error"}
+{"message":"Unauthorized request to path: /users","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"Unauthorized request to path: /users/1","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"insert into \"users\" (\"pass\", \"username\") values ($1, $2) returning \"id\" - duplicate key value violates unique constraint \"users_pkey\"","level":"error"}
+{"message":"insert into \"users\" (\"newPass\", \"username\") values ($1, $2) returning \"id\" - column \"newPass\" of relation \"users\" does not exist","level":"error"}
+{"message":"insert into \"users\" (\"newPass\", \"username\") values ($1, $2) returning \"id\" - column \"newPass\" of relation \"users\" does not exist","level":"error"}
+{"message":"insert into \"users\" (\"password\", \"username\") values ($1, $2) returning * - column \"password\" of relation \"users\" does not exist","level":"error"}
+{"message":"insert into \"users\" (\"password\", \"username\") values ($1, $2) returning * - column \"password\" of relation \"users\" does not exist","level":"error"}
+{"message":"select * from \"users\" where \"username\" = $1 limit $2 - relation \"users\" does not exist","level":"error"}
+{"message":"select * from \"users\" where \"username\" = $1 limit $2 - relation \"users\" does not exist","level":"error"}
+{"message":"select * from \"users\" where \"username\" = $1 limit $2 - relation \"users\" does not exist","level":"error"}
+{"message":"select * from \"users\" where \"username\" = $1 limit $2 - relation \"users\" does not exist","level":"error"}
+{"message":"select * from \"users\" where \"username\" = $1 limit $2 - relation \"users\" does not exist","level":"error"}
+{"message":"Cannot read property 'username' of undefined","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Cannot convert undefined or null to object","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
+{"message":"Cannot read property 'toLowerCase' of undefined","level":"error"}
